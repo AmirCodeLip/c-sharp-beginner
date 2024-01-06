@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34407.89
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpBeginner", "listen 1\CSharpBeginner.csproj", "{A9530979-0E90-4E8C-9E7D-144BA626993D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpBeginner", "CSharpBeginner\CSharpBeginner.csproj", "{A9530979-0E90-4E8C-9E7D-144BA626993D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
