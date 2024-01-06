@@ -1,0 +1,17 @@
+﻿
+//double myDouble = 5.25;
+//bool myBool = true;
+//float myFloat = 0;
+int myInt = 10;
+string testNumber = "10.25";
+
+float myFloat = float.Parse(testNumber);
+myInt = int.Parse(testNumber);
+
+Console.WriteLine(myFloat);
+Console.WriteLine(myInt);
+
+
+string mystring = "my int " + myInt;
+
+//myFloat = (float)Convert.ToDouble(testNumber);

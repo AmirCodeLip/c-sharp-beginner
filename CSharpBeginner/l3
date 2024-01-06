@@ -1,0 +1,29 @@
+int a = 2 + 1;
+int b = 2 + 1;
+int c = 2 + 1;
+//Console.WriteLine("a=" + a);
+//Console.WriteLine("a-5=" + (a - 5));
+
+//Console.WriteLine("8/2=" + 8 / 2);
+//Console.WriteLine("8*2=" + 8 * 2);
+
+//Console.WriteLine("15%2=" + 15 % 2);
+
+//Console.WriteLine("5+3*2=" + (5 + 3 * 2));
+
+
+//++a;
+
+
+//Console.WriteLine(9 + a++);
+//Console.WriteLine(9 + ++b);
+
+a += 2;
+b -= 2;
+c *= 2;
+
+
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
+

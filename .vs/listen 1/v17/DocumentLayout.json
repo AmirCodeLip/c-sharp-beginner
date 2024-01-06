@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\temp projects\\c-sharp-beginner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9530979-0E90-4E8C-9E7D-144BA626993D}|listen 1\\CSharpBeginner.csproj|d:\\temp projects\\c-sharp-beginner\\listen 1\\csharpbeginner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9530979-0E90-4E8C-9E7D-144BA626993D}|listen 1\\CSharpBeginner.csproj|solutionrelative:listen 1\\csharpbeginner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSharpBeginner.csproj",
+              "DocumentMoniker": "D:\\temp projects\\c-sharp-beginner\\listen 1\\CSharpBeginner.csproj",
+              "RelativeDocumentMoniker": "listen 1\\CSharpBeginner.csproj",
+              "ToolTip": "D:\\temp projects\\c-sharp-beginner\\listen 1\\CSharpBeginner.csproj",
+              "RelativeToolTip": "listen 1\\CSharpBeginner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-06T22:13:34.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

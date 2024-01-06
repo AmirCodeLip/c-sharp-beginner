@@ -1,0 +1,22 @@
+Console.WriteLine("enter your age");
+string input1 = Console.ReadLine();
+//int age = Convert.ToInt32(input1);
+int age = int.Parse(input1);
+
+if (18 < age)
+{
+    Console.WriteLine("you can use our terms");
+
+    Console.WriteLine("enter your name");
+    string name = Console.ReadLine();
+    Console.WriteLine("enter your gender");
+    string input2 = Console.ReadLine();
+    bool gender = false;
+    gender = input2 == "men";
+    //if (gender)
+    Console.WriteLine("user with name " + name + " and age " + age + "and gender " + (gender ? "men" : "women"));
+}
+else
+{
+    Console.WriteLine("you are under the 18 and can't use our terms");
+}

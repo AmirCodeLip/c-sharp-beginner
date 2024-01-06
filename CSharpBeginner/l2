@@ -1,0 +1,13 @@
+﻿//[False , False]
+bool[] data = new bool[2] { false, true };
+data[0] = true;
+
+
+Console.WriteLine(data[0]);
+Console.WriteLine(data[1]);
+
+// { 'a', 'm','i','r' }
+char[] chars = new char[4];
+chars[0] = 'a';
+Console.WriteLine(chars[0]);
+Console.WriteLine(chars[1]);
