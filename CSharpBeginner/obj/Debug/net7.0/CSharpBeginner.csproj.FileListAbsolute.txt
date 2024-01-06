@@ -1,0 +1,15 @@
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.AssemblyInfoInputs.cache
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.AssemblyInfo.cs
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.csproj.CoreCompileInputs.cache
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.sourcelink.json
+D:\temp projects\c-sharp-beginner\CSharpBeginner\bin\Debug\net7.0\CSharpBeginner.exe
+D:\temp projects\c-sharp-beginner\CSharpBeginner\bin\Debug\net7.0\CSharpBeginner.deps.json
+D:\temp projects\c-sharp-beginner\CSharpBeginner\bin\Debug\net7.0\CSharpBeginner.runtimeconfig.json
+D:\temp projects\c-sharp-beginner\CSharpBeginner\bin\Debug\net7.0\CSharpBeginner.dll
+D:\temp projects\c-sharp-beginner\CSharpBeginner\bin\Debug\net7.0\CSharpBeginner.pdb
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.dll
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\refint\CSharpBeginner.dll
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.pdb
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\CSharpBeginner.genruntimeconfig.cache
+D:\temp projects\c-sharp-beginner\CSharpBeginner\obj\Debug\net7.0\ref\CSharpBeginner.dll
