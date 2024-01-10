@@ -1,0 +1,14 @@
+
+using System.Linq;
+
+var aNames = new string[] { "zinab", "sahar" };
+
+var names = new List<string>();
+names.Add("amir");
+names.Add("hasan");
+names.Add("hossein");
+names.Add("ali");
+names.Clear();
+names.AddRange(aNames);
+names.Remove("zinab");
+Console.WriteLine(string.Join(",", names));

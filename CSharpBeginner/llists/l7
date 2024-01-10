@@ -1,0 +1,45 @@
+//var color = myColors.blue;
+//color = myColors.blue;
+//var invents = new Dictionary<string, string>()
+//{
+//    { "Albert Einstein","gas absorption heat pump" },
+//    {"alexander graham bell","Telephone" }
+//};
+//invents["edison"] = "Incandescent light bulb";
+
+//Console.WriteLine(invents["edison"]);
+//Console.WriteLine(myColors.green);
+
+//Dictionary<int, string> animalsCage = new Dictionary<int, string>();
+//animalsCage[0] = "cat";
+//animalsCage[1] = "dog";
+//animalsCage[2] = "pig";
+//Console.WriteLine("enter the cage number");
+
+//var cageNumber = int.Parse(Console.ReadLine());
+
+
+//Console.WriteLine(animalsCage[cageNumber]);
+var fileName = Console.ReadLine();
+
+var openWith = new Dictionary<string, string>();
+openWith.Add("txt", "notepad.exe");
+openWith.Add("bmp", "paint.exe");
+openWith.Add("dib", "paint.exe");
+openWith.Add("rtf", "wordpad.exe");
+if (openWith.ContainsKey(fileName))
+{
+    Console.WriteLine(openWith[fileName]);
+}
+else
+{
+    Console.WriteLine("not exist");
+}
+
+
+
+
+enum myColors
+{
+    blue = 0, green = 1, red = 2, yellow = 3, black = 4
+}
